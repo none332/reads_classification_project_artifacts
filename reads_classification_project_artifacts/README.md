@@ -13,6 +13,7 @@ reads_classification_project_artifacts/
 ├── README.md
 ├── AI_use_declaration.md
 ├── environment.yml
+├── .gitignore
 ├── data/
 │   ├── README.md
 │   ├── short_read/
