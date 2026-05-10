@@ -1,0 +1,22 @@
+Start scVelo analysis
+Matrix directory: /gpfs/work/bio/zhaoweiwang22/reads_classification_project_artifacts/results/scvelo/3_processed_matrices
+Output directory: /gpfs/work/bio/zhaoweiwang22/reads_classification_project_artifacts/results/scvelo/4_scvelo_final
+Read: method_spliced: shape=(77969, 384)
+Read: method_unspliced: shape=(77969, 384)
+Read: method_ambiguous: shape=(77969, 384)
+Read: velocyto_spliced: shape=(78275, 384)
+Warn: velocyto_spliced: duplicated genes found, summing duplicated rows.
+Read: velocyto_unspliced: shape=(78275, 384)
+Warn: velocyto_unspliced: duplicated genes found, summing duplicated rows.
+Read: velocyto_ambiguous: shape=(78275, 384)
+Warn: velocyto_ambiguous: duplicated genes found, summing duplicated rows.
+Common cells: 369
+Common genes: 77969
+Run: method_baseline
+Done: method_baseline: cells=369, genes=6470, mean_confidence=0.8617054101251328
+Run: method_plus_ambiguous_to_unspliced
+Done: method_plus_ambiguous_to_unspliced: cells=369, genes=7793, mean_confidence=0.8688125926950759
+Run: velocyto_baseline
+Done: velocyto_baseline: cells=369, genes=16667, mean_confidence=0.7173758002962201
+Summary file: /gpfs/work/bio/zhaoweiwang22/reads_classification_project_artifacts/results/scvelo/4_scvelo_final/scvelo_compare_summary.csv
+All analyses finished.

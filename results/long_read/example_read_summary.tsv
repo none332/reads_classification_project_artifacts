@@ -1,0 +1,2 @@
+sample	pre_mRNA_input	isoform_input	mRNA_spliced_input	Mature_reads	Precursor_reads	Ambiguous_reads	Total_classified_reads
+t_mine_sorted	438307	486668	10583	833605	55081	46872	935558
