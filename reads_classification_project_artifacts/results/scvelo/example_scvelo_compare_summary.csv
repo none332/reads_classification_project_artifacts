@@ -1,4 +1,0 @@
-dataset,n_cells,n_genes_after_nonzero_filter,n_genes_after_min_shared_counts,spliced_total_after_filter,unspliced_total_after_filter,n_pcs_used,n_neighbors_used,mean_velocity_confidence,median_velocity_confidence,mean_velocity_length,median_velocity_length
-method_baseline,369,21824,6470,7231365.0,4387372.0,30,15,0.8617054101251328,0.8770509362220764,178.98995971679688,159.4600067138672
-method_plus_ambiguous_to_unspliced,369,25113,7793,7307066.5,14169376.0,30,15,0.8688125926950759,0.8800225257873535,344.0645751953125,317.0299987792969
-velocyto_baseline,369,41774,16667,48088852.0,20606476.0,30,15,0.7173758002962201,0.7326263189315796,346.65692138671875,346.5199890136719
