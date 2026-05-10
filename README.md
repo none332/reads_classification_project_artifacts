@@ -62,6 +62,7 @@ Required inputs include:
 cell colour/group annotation file (This repository provides 369 cell group data for GSE99933 dataset with 15 unavailable samples. It can be found in reads_classification_project_artifacts/data/scvelo)
 
 ### Workflow
+![Figure: overall flowchart of this project](image/flowchart.png)
 This part provides the main workflow of this project. When reproducing, you can run the scripts in the following process:
 ## Short_read data processing
 In the step 1-6, the scripts locate in reads_classification_project_artifacts/scripts/methods/short_read
